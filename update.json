@@ -1,5 +1,5 @@
 {
-  start_updates_json,
+  start_updates_json
   "updates": {
     "rise-pc-version": "1.0",
     "is-mandatory": true,
