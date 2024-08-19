@@ -1,4 +1,5 @@
 {
+  start_updates_json,
   "updates": {
     "rise-pc-version": "1.0",
     "is-mandatory": true,
@@ -12,5 +13,6 @@
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Linux. Go on..."
     }
-  }
+  },
+  end_updates_json
 }
