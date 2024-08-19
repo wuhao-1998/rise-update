@@ -1,5 +1,4 @@
-{
-  start_updates_json
+start_updates_json{
   "updates": {
     "rise-pc-version": "1.0",
     "is-mandatory": true,
@@ -12,5 +11,4 @@
       "changelog": "This is an example changelog for Linux. Go on..."
     }
   }
-  end_updates_json
-}
+}end_updates_json
