@@ -2,13 +2,7 @@ start_updates_json{
   "updates": {
     "rise-pc-version": "1.0",
     "is-mandatory": true,
-    "windows-install":{
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Windows. Go on..."
-    },
-    "linux-install":{
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Linux. Go on..."
-    }
+    "windows-install-download-url":  "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+    "linux-install-download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg"
   }
 }end_updates_json
